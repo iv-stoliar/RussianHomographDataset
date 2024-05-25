@@ -1,0 +1,56 @@
+HomographType	Homograph	TotalNumberContexts	FirstPronunciation	FirstMeaning	ContextsFirstMeaning	SecondPronunciation	SecondMeaning	ContextsSecondMeaning
+Lexical	атлас	725	а́тлас /ˈatlas/	atlas	385	атла́с /atˈlas/	satin	340
+Lexical	замок	2874	за́мок /ˈzamak/	castle	1511	замо́к /zaˈmok/	lock	1363
+Lexical	мука	725	му́ка /ˈmuka/	torment	385	мука́ /muˈka/	flour	340
+Lexical	хлопок	749	хло́пок /ˈxlopak/	cotton	402	хлопо́к /xlaˈpok/	clap	347
+Mixed (nouns)	белка	2162	бе́лка /ˈbʲelka/	squirrel (sg, nom)	1066	белка́ /bʲil'ka/	protein (sg, gen)	1096
+Mixed (nouns)	виски	2255	ви́ски /ˈvʲiskʲi/	whiskey (indeclinable)	1751	виски́ /vʲisˈkʲi/	temples (pl, nom/acc)	504
+Mixed (nouns)	горе	5026	го́ре /ˈgorʲi/	grief (sg, nom/acc)	2603	горе́ /gaˈrʲe/	mountain (sg, dat/loc)	2423
+Mixed (nouns)	душа	1243	ду́ша /ˈduʃa/	douche (sg, gen)	543	душа́ /duˈʃa/	soul (sg, nom)	700
+Mixed (nouns)	паром	2262	па́ром /ˈparam/	steam (sg, instr)	1356	паро́м /paˈrom/	ferry (sg, nom/acc)	906
+Mixed (nouns)	полку	2875	по́лку /ˈpolku/	shelf (sg, acc)	1456	полку́ /palˈku/	regiment (sg, dat/instr)	1419
+Mixed (nouns)	уха	1978	у́ха /ˈuxa/	ear (sg, gen)	1422	уха́ /uˈxa/	fish soup (sg, nom)	556
+Mixed (nouns)	чайку	1384	ча́йку /ˈt͡ʃʲajku/	seagull (sg, acc)	370	чайку́ /t͡ʃʲij'ku/	tea (partitive form)	1014
+Mixed (different POS)	берег	1931	бе́рег /ˈbʲerʲik/	shore, coast (noun, sg, nom/acc)	1000	берёг /bʲiˈrʲok/	(I, you, he) protected (verb, past, sg, masc)	931
+Mixed (different POS)	вести	5934	ве́сти /ˈvʲesʲtʲi/	news (noun, pl, nom/acc)	2924	вести́ /vʲisʲˈtʲi/	to lead (verb, inf)	3000
+Mixed (different POS)	дорогой	7873	доро́гой /daˈrogaj/	road, way (noun, sg, instr)	3320	дорого́й /daraˈgoj/	dear (adj, masc, sg, nom)	4553
+Mixed (different POS)	знаком	7882	зна́ком /ˈznakam/	sign, mark (noun, sg, instr)	4110	знако́м /znaˈkom/	known, familiar (adj, short form, masc, sg, nom)	3772
+Mixed (different POS)	ношу	1610	но́шу /ˈnoʃu/	burden, load (noun, sg, acc)	716	ношу́ /naˈʃu/	(I) carry (verb, present, 1 pers, sg)	894
+Mixed (different POS)	подать	1418	по́дать /ˈpodatʲ/	tax, duty (noun, sg, nom/acc)	418	пода́ть /pa'datʲ/	to give (verb, inf)	1000
+Mixed (different POS)	потом	4922	по́том /ˈpotam/	sweat (noun, sg, instr)	2380	пото́м /paˈtom/	then, afterwards (adv)	2542
+Mixed (different POS)	пропасть	1777	про́пасть /ˈpropasʲtʲ/	precipice, gap (noun, sg, nom/acc)	974	пропа́сть /praˈpasʲtʲ/	to get lost, to disappear (verb, inf)	803
+Mixed (different POS)	сел	4145	сел /ˈsʲel/	(I, you, he) sat down (verb, past, sg, masc)	2413	сёл /ˈsʲol/	villages (noun, pl, gen)	1732
+Intraparadigmatic I, masc anim	директора	400	дире́ктора /dʲiˈrʲektara/	director, headmaster (sg, gen/acc)	200	директора́ /dʲirʲiktaˈra/	directors, headmasters (pl, nom)	200
+Intraparadigmatic I, masc anim	доктора	400	до́ктора /ˈdoktara/	doctor (sg, gen/acc)	200	доктора́ /daktaˈra/	doctors (pl, nom)	200
+Intraparadigmatic I, masc anim	мастера	400	ма́стера /ˈmasʲtʲira/	master (sg, gen/acc)	200	мастера́ /masʲtʲiˈra/	masters (pl, nom)	200
+Intraparadigmatic I, masc anim	повара	400	по́вара /ˈpovara/	cook (sg, gen/acc)	200	повара́ /pavaˈra/	cooks (pl, nom)	200
+Intraparadigmatic I, masc anim	профессора	400	профе́ссора /praˈfʲesara/	professor (sg, gen/acc)	200	профессора́ /prafʲisaˈra/	professors (pl, nom)	200
+Intraparadigmatic I, masc anim	учителя	400	учи́теля /uˈt͡ʃʲitʲilʲa/	teacher (sg, gen/acc)	200	учителя́ /ut͡ʃʲitʲiˈlʲa/	teachers (pl, nom)	200
+Intraparadigmatic I, masc anim	юнкера	400	ю́нкера  /ˈjunkʲira/	cadet (sg, gen/acc)	200	юнкера́ /junkʲiˈra/	cadets (pl, nom)	200
+Intraparadigmatic II, fem|common anim	вдовы	400	вдовы́ /vdaˈvɨ/	widow (sg, gen)	200	вдо́вы /ˈvdovɨ/	widows (pl, nom)	200
+Intraparadigmatic II, fem|common anim	жены	400	жены́ /ʒɨˈnɨ/	wife (sg, gen)	200	жёны /ˈʒonɨ/	wives (pl, nom)	200
+Intraparadigmatic II, fem|common anim	козы	400	козы́ /kaˈzɨ/	she-goat (sg, gen)	200	ко́зы /ˈkozɨ/	she-goats (pl, nom)	200
+Intraparadigmatic II, fem|common anim	овцы	400	овцы́ /afˈt͡sɨ/	sheep (sg, gen)	200	о́вцы /ˈoft͡sɨ/	sheep (pl, nom)	200
+Intraparadigmatic II, fem|common anim	сестры	400	сестры́ /sʲisˈtrɨ/	sister (sg, gen)	200	сёстры /ˈsʲostrɨ/	sisters (pl, nom)	200
+Intraparadigmatic II, fem|common anim	сироты	400	сироты́ /sʲiraˈtɨ/	orphan (sg, gen)	200	сиро́ты /sʲiˈrotɨ/	orphans (pl, nom)	200
+Intraparadigmatic II, fem|common anim	слуги	400	слуги́ /sluˈgʲi/	servant (sg, gen)	200	слу́ги /ˈslugʲi/	servants (pl, nom)	200
+Intraparadigmatic III, masc inanim	вечера	400	ве́чера /ˈvʲet͡ʃʲira/	evening (sg, gen)	200	вечера́ /vʲit͡ʃʲiˈra/	evenings (pl, nom/acc)	200
+Intraparadigmatic III, masc inanim	города	400	го́рода /ˈgorada/	city (sg, gen)	200	города́ /garaˈda/	cities (pl, nom/acc)	200
+Intraparadigmatic III, masc inanim	дома	400	до́ма /ˈdoma/	house (sg, gen)	200	дома́ /daˈma/	houses (pl, nom/acc)	200
+Intraparadigmatic III, masc inanim	леса	400	ле́са /ˈlʲesa/	forest (sg, gen)	200	леса́ /lʲiˈsa/	forests (pl, nom/acc)	200
+Intraparadigmatic III, masc inanim	острова	400	о́строва /ˈostrava/	isle (sg, gen)	200	острова́ /astraˈva/	isles (pl, nom/acc)	200
+Intraparadigmatic III, masc inanim	поезда	400	по́езда /ˈpoizda/	train (sg, gen)	200	поезда́ /paizˈda/	trains (pl, nom/acc)	200
+Intraparadigmatic III, masc inanim	холода	400	хо́лода /ˈxolada/	cold (sg, gen)	200	холода́ /xalaˈda/	colds (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	волны	400	волны́ /valˈnɨ/	wave (sg, gen)	200	во́лны /ˈvolnɨ/	waves (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	головы	400	головы́ /galaˈvɨ/	head (sg, gen)	200	го́ловы /ˈgolavɨ/	heads (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	горы	400	горы́ /gaˈrɨ/	mountain (sg, gen)	200	го́ры /ˈgorɨ/	mountains (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	звезды	400	звезды́ /zvʲizˈdɨ/	star (sg, gen)	200	звёзды /ˈzvʲozdɨ/	stars (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	ноги	400	ноги́ /naˈgʲi/	leg (sg, gen)	200	но́ги /ˈnogʲi/	legs (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	руки	400	руки́ /ruˈkʲi/	hand (sg, gen)	200	ру́ки /ˈrukʲi/	hands (pl, nom/acc)	200
+Intraparadigmatic IV, fem inanim	страны	400	страны́ /straˈnɨ/	country (sg, gen)	200	стра́ны /ˈstranɨ/	countries (pl, nom/acc)	200
+Intraparadigmatic V, neut inanim	места	400	ме́ста /ˈmʲesta/	place (sg, gen)	200	места́ /mʲisˈta/	places (pl, nom/acc)	200
+Intraparadigmatic V, neut inanim	моря	400	мо́ря /ˈmorʲa/	sea (sg, gen)	200	моря́ /maˈrʲa/	seas (pl, nom/acc)	200
+Intraparadigmatic V, neut inanim	облака	400	о́блака /ˈoblaka/	cloud (sg, gen)	200	облака́ /ablaˈka/	clouds (pl, nom/acc)	200
+Intraparadigmatic V, neut inanim	окна	400	окна́ /akˈna/	window (sg, gen)	200	о́кна /ˈokna/	windows (pl, nom/acc)	200
+Intraparadigmatic V, neut inanim	письма	400	письма́ /pʲisʲˈma/	letter (sg, gen)	200	пи́сьма /ˈpʲisʲma/	letters (pl, nom/acc)	200
+Intraparadigmatic V, neut inanim	слова	400	сло́ва /ˈslova/	word (sg, gen)	200	слова́ /slaˈva/	words (pl, nom/acc)	200
